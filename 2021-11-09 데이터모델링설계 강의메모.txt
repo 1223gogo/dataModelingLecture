@@ -1,0 +1,45 @@
+DB 설계 중요
+- 기업에 실질적인 손해불러일으킬 수 있다.
+- 잘아는 사람이 설계해야한다.
+
+영어로 공부해야 구글링 수월하다.
+
+<Relational Data Model>
+이산수학은 왜?
+Relation = set of tuples
+
+Cartesian Product (X 로 표기)
+Relation 이름전체집합(Domain) X 성별전체집합 X 생년월일전체집합 의 부분집합
+- 정리 -
+Relation은 set of tuples(중복X)
+Tuple은 순서를 가진 요소
+수학적으로 표기하니 Relation은 sets(Domain)의 Cartesian Product의 subset(부분집합)
+Function 은 relation의 special case
+
+symentic modeling 단계만 창조 단계
+이후는 제약조건에 맞춰 가는 기계적인 단계
+
+Integrity는 테이블에 제대로된 데이터가 들어가도록 하는 것..?
+constraint 걸기
+	create assertion
+	create trigger
+쪼개쪼개!!
+
+
+정규화
+1NF
+2NF
+3NF
+BCNF
+4NF
+5NF
+
+암기 중요
+
+<데이터 모델링 알고리즘>
+p.39 ~ p.52 STEP 11개로 알고리즘
+
+
+
+
+
