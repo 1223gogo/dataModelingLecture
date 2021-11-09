@@ -39,6 +39,36 @@ BCNF
 <데이터 모델링 알고리즘>
 p.39 ~ p.52 STEP 11개로 알고리즘
 
+Visual Paradigm 실습시간
+	synchronize to class diagram(auto nono)>ok>ok
+
+p. 73
+RDB : B+ tree 구조 사용 - 5NF Relation
+DW  : full-invertel - snowflake(readonly)
+
+profiling, cleansing, transformation, ....
+
+시계열에 매핑되도록 데이터 모델
+Semantic Data Model -> Multidimensional Data Model
+
+BigData 분야의 DW : Hive 많이 사용
+- open source
+- HiveQL 사용
+
+<EAV 데이터모델과 NoSQL 데이터베이스 설계>
+- EAV(Entity-Attribute-Value) Data Model
+	JSONB datatype을 사용하면 EAV data model 쉽게 구현할 수 있다.
+
+- NoSQL Database
+	javascript object 형태로
+	key value
+
+
+
+
+
+
+
 
 
 
